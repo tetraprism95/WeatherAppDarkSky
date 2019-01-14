@@ -3,7 +3,12 @@
 
 ## What Does The App Do? 
 
-Presents an 8 day weather forecast for users desired location text input.  
+Presents an 8 day weather forecast for users desired location text input.
+
+## Demo
+
+![darksky8forecast](https://user-images.githubusercontent.com/36717095/51092669-e0142e00-1767-11e9-9094-f1d524f5d063.gif)
+
 
 # To learn the URLSession process most importantly.
 
