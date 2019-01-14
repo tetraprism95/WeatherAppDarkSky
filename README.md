@@ -30,5 +30,5 @@ Developing software for mainly, macOS, iOS, watchOS, and tvOS.
 
 ## Git Clone Terminal Over HTTPS
 
-$ git clone https://github.com/tetraprism95/WeatherAppDarkSky.git
+<pre> $ git clone https://github.com/tetraprism95/WeatherAppDarkSky.git </pre>
 
